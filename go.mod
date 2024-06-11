@@ -12,14 +12,14 @@ require (
 	github.com/Azure/azure-event-hubs-go/v3 v3.6.2
 	github.com/Azure/azure-kusto-go v0.15.0
 	github.com/Azure/azure-sdk-for-go v68.0.0+incompatible
-	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.9.1
-	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.5.1
+	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.11.1
+	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.6.0
 	github.com/Azure/azure-sdk-for-go/sdk/messaging/azservicebus v1.6.0
 	github.com/Azure/azure-storage-blob-go v0.15.0
 	github.com/Azure/azure-storage-queue-go v0.0.0-20230927153703-648530c9aaf2
 	github.com/Azure/go-autorest/autorest v0.11.29
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.12
-	github.com/AzureAD/microsoft-authentication-library-for-go v1.2.1
+	github.com/AzureAD/microsoft-authentication-library-for-go v1.2.2
 	github.com/DataDog/datadog-api-client-go v1.16.0
 	github.com/Huawei/gophercloud v1.0.21
 	github.com/IBM/sarama v1.42.1
@@ -78,7 +78,7 @@ require (
 	github.com/segmentio/kafka-go/sasl/aws_msk_iam_v2 v0.1.0
 	github.com/spf13/cast v1.6.0
 	github.com/spf13/pflag v1.0.5
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	github.com/tidwall/gjson v1.17.0
 	github.com/xdg/scram v1.0.5
 	github.com/xhit/go-str2duration/v2 v2.1.0
@@ -159,7 +159,7 @@ require (
 	cloud.google.com/go/iam v1.1.5 // indirect
 	code.cloudfoundry.org/clock v1.1.0 // indirect
 	github.com/Azure/azure-pipeline-go v0.2.3 // indirect
-	github.com/Azure/azure-sdk-for-go/sdk/internal v1.5.1 // indirect
+	github.com/Azure/azure-sdk-for-go/sdk/internal v1.8.0 // indirect
 	github.com/Azure/go-amqp v1.0.4 // indirect
 	github.com/Azure/go-autorest v14.2.0+incompatible // indirect
 	github.com/Azure/go-autorest/autorest/adal v0.9.23 // indirect
@@ -225,7 +225,7 @@ require (
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect
 	github.com/golang-jwt/jwt/v4 v4.5.0 // indirect
-	github.com/golang-jwt/jwt/v5 v5.2.0 // indirect
+	github.com/golang-jwt/jwt/v5 v5.2.1 // indirect
 	github.com/golang-sql/civil v0.0.0-20220223132316-b832511892a9 // indirect
 	github.com/golang-sql/sqlexp v0.1.0 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
@@ -302,7 +302,7 @@ require (
 	github.com/spf13/afero v1.11.0 // indirect
 	github.com/spf13/cobra v1.8.0 // indirect
 	github.com/stoewer/go-strcase v1.3.0 // indirect
-	github.com/stretchr/objx v0.5.1 // indirect
+	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.1 // indirect
 	github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80 // indirect
@@ -332,13 +332,13 @@ require (
 	go.uber.org/automaxprocs v1.5.3
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.26.0 // indirect
-	golang.org/x/crypto v0.19.0
-	golang.org/x/exp v0.0.0-20240112132812-db7319d0e0e3 // indirect
+	golang.org/x/crypto v0.24.0
+	golang.org/x/exp v0.0.0-20240112132812-db7319d0e0e3
 	golang.org/x/mod v0.14.0 // indirect
-	golang.org/x/net v0.20.0 // indirect
-	golang.org/x/sys v0.16.0 // indirect
+	golang.org/x/net v0.26.0 // indirect
+	golang.org/x/sys v0.21.0 // indirect
 	golang.org/x/term v0.16.0 // indirect
-	golang.org/x/text v0.14.0 // indirect
+	golang.org/x/text v0.16.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
 	golang.org/x/tools v0.17.0 // indirect
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028 // indirect
